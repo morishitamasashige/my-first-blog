@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+# modified just to update
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'IWS_project.settings')
     try:
