@@ -1,2 +1,1 @@
 Django~=2.2.5
-Django-taggit=0.24.0
